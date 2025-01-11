@@ -6,7 +6,7 @@ Project Portfolio
 [Brief Introduction - Remove this afterwards]
 
 Professional Summary
-With a strong foundation in investigative problem-solving and a passion for hands-on technical solutions, I bring skills in data analysis, troubleshooting, and knowledge in cybersecurity. My experience includes deploying trend tracking tools and creating custom solutions for my team when unique problems arise.
+Leveraging a solid background in investigative problem-solving and a keen interest in practical technical solutions, I offer expertise in data analysis, troubleshooting, and cybersecurity. I have experience implementing trend-tracking tools and designing tailored solutions to address unique challenges within my team.
 
 ## Objective
 [Provide Objective - Remove this afterwards]]
